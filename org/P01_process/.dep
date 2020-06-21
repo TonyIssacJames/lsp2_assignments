@@ -1,0 +1,8 @@
+execlp.o: execlp.c
+pid.o: pid.c
+fork_execv.o: fork_execv.c
+exec_overlay.o: exec_overlay.c
+system.o: system.c
+exec_start.o: exec_start.c
+fork_basic.o: fork_basic.c
+fork.o: fork.c
